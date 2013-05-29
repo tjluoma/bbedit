@@ -25,8 +25,10 @@ The filename will become the menu item name.
 
 Each script should have a `Purpose:` line at the top of the file.
 
-MMD to HTML.zsh
+[MMD to HTML.zsh][]
 : Convert the current BBEdit file to HTML using [MultiMarkdown][]. 
 
 
 [MultiMarkdown]: http://fletcherpenney.net/multimarkdown/
+[MMD to HTML.zsh]: MMD%20to%20HTML.zsh
+
