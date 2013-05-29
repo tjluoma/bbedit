@@ -32,3 +32,9 @@ Each script should have a `Purpose:` line at the top of the file.
 [MultiMarkdown]: http://fletcherpenney.net/multimarkdown/
 [MMD to HTML.zsh]: MMD%20to%20HTML.zsh
 
+
+## There are a few provisos, a couple of *quid pro quos*. ##
+
+* I am not now, nor have I ever been, an employee of Bare Bones Software, Inc. and these scripts are in no way from or endorsed by Bare Bones Software, Inc. 
+* These scripts come with no warrantee, guarantee, hint, implication, or other suggestion that any/all of them will work for you. You accept complete liability for anything that happens.
+* Feel free to use, adapt, change, fix, modify, and re-release as you wish. Crediting me by name and/or linking to my Github (or other) page would be appreciated, but is not required. After all, they're only shell scripts, not the cure for cancer.
