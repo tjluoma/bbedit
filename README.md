@@ -1,4 +1,4 @@
-bbedit
+BBEdit scripts 
 ======
 
 Scripts to be used with [BBEdit][]
