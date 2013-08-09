@@ -11,34 +11,26 @@ These scripts should be installed to
 
 	~/Dropbox/Application Support/BBEdit/Scripts/
 
-or
-
-	~/Dropbox/Application Support/BBEdit/Text Filters/
-
-(Because you *are* using Dropbox, right? If not I think the path is `~/Library/Application Support/BBEdit/` but I'm not sure because why would you not be using Dropbox?)
+(Because you *are* using Dropbox, right? If not I think the path is `~/Library/Application Support/BBEdit/Scripts/` but I'm not sure because why would you not be using Dropbox?)
 
 ## Usage ##
 
-The Scripts can be found in BBEdit under the scripts menu:
+The scripts can be found in BBEdit under the scripts menu:
 
-![](images/scripts-menu.jpg)
-
-The Text Filters can be found in BBEdit under the **Text/Apply Text Filter** menu:
-
-![](images/text-filter-menu.jpg)
+![](bbedit-scripts-menu.jpg)
 
 The filename will become the menu item name.
 
 ## What do they do? ##
 
-Each script should have a `Purpose:` line at the top of the file. For example:
+Each script should have a `Purpose:` line at the top of the file.
 
-[MMD to HTML.sh][]
+[MMD to HTML.zsh][]
 : Convert the current BBEdit file to HTML using [MultiMarkdown][]. 
 
 
 [MultiMarkdown]: http://fletcherpenney.net/multimarkdown/
-[MMD to HTML.zsh]: Scripts/MMD-to-HTML/MMD-to-HTML.sh
+[MMD to HTML.zsh]: MMD%20to%20HTML.zsh
 
 
 ## There are a few provisos, a couple of *quid pro quos*. ##
