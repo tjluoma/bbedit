@@ -38,7 +38,7 @@ Each script should have a `Purpose:` line at the top of the file. For example:
 
 
 [MultiMarkdown]: http://fletcherpenney.net/multimarkdown/
-[MMD to HTML.zsh]: Scripts/MMD-to-HTML/MMD-to-HTML.sh
+[MMD to HTML.sh]: https://github.com/tjluoma/bbedit/blob/master/Scripts/MMD-to-HTML/MMD-to-HTML.sh
 
 
 ## There are a few provisos, a couple of *quid pro quos*. ##
